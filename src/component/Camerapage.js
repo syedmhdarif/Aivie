@@ -278,4 +278,4 @@ const styles = StyleSheet.create({
 //   },
 // });
 
-// export default Camerapage;
+// export default Camerapage;'
