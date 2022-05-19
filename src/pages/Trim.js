@@ -124,7 +124,7 @@ export default class Trim extends Component {
                   <TouchableOpacity
                     style={{
                       width: '20%',
-                      height: '30%',
+                      height: '31%',
                       backgroundColor: '#F7971E',
                       borderRadius: 15,
                       marginLeft: '13%',
